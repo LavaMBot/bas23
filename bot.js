@@ -127,5 +127,5 @@ if (!rank) return message.reply(' ')
 });
 
 
-client.login(process.env.TOKEN);////////////// هنا هتشغل اكونت
+client.login(NTUwMDk5OTIxOTQ0OTY5MjI0.D1hQRQ.-k9Vck3FOSxPDqqKW4jTInoTewM);////////////// هنا هتشغل اكونت
 client2.login(process.env.TOKEN2);///////////// هنا هتشغل اكونت تانى 
